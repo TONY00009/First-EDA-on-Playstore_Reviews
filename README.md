@@ -1,4 +1,4 @@
-# EDA-on-Playstore_Reviews
+# EDA-on-Playstore_DataSet
 
 ![image](https://user-images.githubusercontent.com/85400805/198846975-c6707b91-e43b-4f97-b8c5-4162c95f89ea.png)
 
